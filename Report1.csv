@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1634533438917,2141,MyFirstHTTPTest,200,OK,Thread Group 1-1,text,true,,42416,127,3,3,https://lifecharger.org/2-minute-rule/,1856,0,577
+1634533439916,2758,MyFirstHTTPTest,200,OK,Thread Group 1-2,text,true,,42416,127,3,3,https://lifecharger.org/2-minute-rule/,2188,0,551
+1634533440918,2006,MyFirstHTTPTest,200,OK,Thread Group 1-3,text,true,,42416,127,3,3,https://lifecharger.org/2-minute-rule/,1732,0,553
+1634533441917,2249,MyFirstHTTPTest,200,OK,Thread Group 1-4,text,true,,42416,127,2,2,https://lifecharger.org/2-minute-rule/,1962,0,723
+1634533442918,2020,MyFirstHTTPTest,200,OK,Thread Group 1-5,text,true,,42421,127,1,1,https://lifecharger.org/2-minute-rule/,1741,0,609
